@@ -83,7 +83,7 @@ The main objective of this project is to:
 
 ## 👩‍💻 Author
 
-* Your Name
+* Prachi Chorode
 
 ---
 
